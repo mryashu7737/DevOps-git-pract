@@ -1,0 +1,24 @@
+  508  cd Practise/
+  509  mkdir Prac1
+  510  cd Prac1/
+  511  git init
+  512  ls
+  513  ls -all
+  514  cat >> raj.txt
+  515  cat raj.txt
+  516  git add raj.txt
+  517  git status
+  518  git commit -m "first c program"
+  519  git branch -M main
+  520  git remote add origin https://github.com/mryashu7737/DevOps-git-pract.git
+  521  git push -u origin main
+  522  vi raj.txt
+  523  git show
+  524  git status
+  525  git commit -m "version2"
+  526  git add .
+  527  git status
+  528  git commit -m "second version"
+  529  git log
+  530  git show
+  531  history
