@@ -1,4 +1,6 @@
-  508  cd Practise/
+SQL DB ASSIGNMENT ASSIGNMENT by monday and devops these commands
+#Following commands will help you to create and push the file 
+  508  cd Practise/
   509  mkdir Prac1
   510  cd Prac1/
   511  git init
